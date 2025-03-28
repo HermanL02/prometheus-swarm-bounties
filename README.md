@@ -67,3 +67,4 @@
 |[zombie-leaderboard](https://github.com/koii-network/zombie-leaderboard)|Document & Summarize|zombie-leaderboard|Document and summarize the zombie-leaderboard repository|20|usdc|f036c098321946499059ffd2cd7c973a|In Progress|
 | [uport-nodejs-example](https://github.com/alexander-morris/thebananasgame) | Document & Summarize | API Key Fetcher | N/A | 0.0001 | usdc | 0x244f902b0242983bee207db7d8c4ebb448980d7836c36fc275e0af9f18d2366c | In Progress |
 | [Thebananasgame](https://github.com/alexander-morris/thebananasgame) | Document & Summarize | Thebananasgame | N/A | 0.00001 | usdc | 0x8a781f1d6e5479dd4e9f117b0ec396daf7c7c25784d4e164567e1b213c6338ba | In Progress |
+| [Morent](https://github.com/DevTaehong/Morent) | Document & Summarize | Morent | N/A | 0.2 | usdc | 0xe22072d876195d02d8cd3fd6ec65ce994224815b5f25201664b651704805496b | In Progress |
