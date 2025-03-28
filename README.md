@@ -65,4 +65,4 @@
 |[VPS-task](https://github.com/koii-network/VPS-task)|Document & Summarize|VPS-task|Document and summarize the VPS-task repository|27|usdc|62e6303c57334f72ada393bfa9e7aacc|In Progress|
 |[WIP-federated-deployer](https://github.com/koii-network/WIP-federated-deployer)|Document & Summarize|WIP-federated-deployer|Document and summarize the WIP-federated-deployer repository|31|usdc|9f3279625d194a42b9ca4f661b4b380f|In Progress|
 |[zombie-leaderboard](https://github.com/koii-network/zombie-leaderboard)|Document & Summarize|zombie-leaderboard|Document and summarize the zombie-leaderboard repository|20|usdc|f036c098321946499059ffd2cd7c973a|In Progress|
-| [uport-nodejs-example](https://github.com/alexander-morris/uport-nodejs-example) | Document & Summarize | API Key Fetcher | N/A | 0.0001 | usdc | 0x244f902b0242983bee207db7d8c4ebb448980d7836c36fc275e0af9f18d2366c | In Progress |
+| [uport-nodejs-example](https://github.com/alexander-morris/thebananasgame) | Document & Summarize | API Key Fetcher | N/A | 0.0001 | usdc | 0x244f902b0242983bee207db7d8c4ebb448980d7836c36fc275e0af9f18d2366c | In Progress |
