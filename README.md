@@ -44,3 +44,4 @@
 |[twitter-crawler-1](https://github.com/somali0128/twitter-crawler-1)|Document & Summarize|twitter-crawler-1|Document and summarize the twitter-crawler-1 repository|32|usdc|a7910a7a857c4a07af4c485e5ab8dbfe|In Progress|
 |[web3_connect](https://github.com/somali0128/web3_connect)|Document & Summarize|web3_connect|Document and summarize the web3_connect repository|28|usdc|f5af3177a1194fdfb56f0cc116a21f5f|In Progress|
 |[X-scraper](https://github.com/somali0128/X-scraper)|Document & Summarize|X-scraper|Document and summarize the X-scraper repository|33|usdc|f2642718ba0945579e1556d2f63c6714|In Progress|
+| [Real_Time_Flight_Tracker](https://github.com/DevTaehong/Real_Time_Flight_Tracker) | Document & Summarize | Real_Time_Flight_Tracker | Hehehe | 0.05 | usdc | 0x6acd5f45e40951bd2495717894879b68e0ab82db35399bb41b7cce452a43d427 | In Progress |
