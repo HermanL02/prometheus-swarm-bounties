@@ -46,3 +46,4 @@
 |[X-scraper](https://github.com/somali0128/X-scraper)|Document & Summarize|X-scraper|Document and summarize the X-scraper repository|33|usdc|f2642718ba0945579e1556d2f63c6714|In Progress|
 | [Real_Time_Flight_Tracker](https://github.com/DevTaehong/Real_Time_Flight_Tracker) | Document & Summarize | Real_Time_Flight_Tracker | Hehehe | 0.05 | usdc | 0x6acd5f45e40951bd2495717894879b68e0ab82db35399bb41b7cce452a43d427 | In Progress |
 | [MSSQL_NSCC](https://github.com/DevTaehong/MSSQL_NSCC) | Document & Summarize | MSSQL_NSCC | N/A | 0.007 | usdc | 0xf114b62c55bfd57c887f5fdf435f3523702c90bcb015a8c62fb7e0de57add3ea | In Progress |
+| [Morning Test](https://github.com/devTaehong/morning-test) | Document & Summarize | Morning Test | N/A | 0.00001 | usdc | 0x141ce223e2946ffc82900b77f29fa74360a4e9e31ba9e20d8f54fba13956892b | In Progress |
