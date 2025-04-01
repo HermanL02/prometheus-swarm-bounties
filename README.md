@@ -49,3 +49,4 @@
 | [Morning Test](https://github.com/devTaehong/morning-test) | Document & Summarize | Morning Test | N/A | 0.00001 | usdc | 0x141ce223e2946ffc82900b77f29fa74360a4e9e31ba9e20d8f54fba13956892b | In Progress |
 | [Test Before Lunch](https://github.com/devTaehong/test-before-lunch) | Document & Summarize | Test Before Lunch | N/A | 0.008 | koii | pkax8cpzzausu9ikkab3axfo5ceookbqikw2vq1cnsfxh27wpevusoabpdy7uck5s1lbnv8smxd7zdvma2v34jz | In Progress |
 | [Eth Test3](https://github.com/devTaehong/eth-test3) | Document & Summarize | Eth Test3 | N/A | 0.000001 | usdc | 0x9acf11ebc00f65585d5c83415be300d3ea8600519969f32dde4a4d52740110ed | In Progress |
+| [Whyfail](https://github.com/devTaehong/whyfail) | Document & Summarize | Whyfail | N/A | 0.0001 | usdc | 0x218246fa7689411bb3db746ffc7fe3e4642c04837ed503711cc9e2ac0e057afa | In Progress |
