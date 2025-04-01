@@ -50,3 +50,4 @@
 | [Test Before Lunch](https://github.com/devTaehong/test-before-lunch) | Document & Summarize | Test Before Lunch | N/A | 0.008 | koii | pkax8cpzzausu9ikkab3axfo5ceookbqikw2vq1cnsfxh27wpevusoabpdy7uck5s1lbnv8smxd7zdvma2v34jz | In Progress |
 | [Eth Test3](https://github.com/devTaehong/eth-test3) | Document & Summarize | Eth Test3 | N/A | 0.000001 | usdc | 0x9acf11ebc00f65585d5c83415be300d3ea8600519969f32dde4a4d52740110ed | In Progress |
 | [Whyfail](https://github.com/devTaehong/whyfail) | Document & Summarize | Whyfail | N/A | 0.0001 | usdc | 0x218246fa7689411bb3db746ffc7fe3e4642c04837ed503711cc9e2ac0e057afa | In Progress |
+| [Eth Test](https://github.com/devTaehong/eth-test) | Document & Summarize | Eth Test | N/A | 0.0001 | eth | 0x1d1825a5be442acfaa68386372f31d58ff4974623884252e7baeb1aee2b6582f | In Progress |
