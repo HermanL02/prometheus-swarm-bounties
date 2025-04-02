@@ -54,3 +54,4 @@
 | [Last Test Before](https://github.com/devTaehong/last-test-before) | Document & Summarize | Last Test Before | N/A | 0.0001 | usdc | 0xa63f714cd32b5b73734d6409fb206dea64983ea1d5baff6a3cbcc42296e0af95 | In Progress |
 | [Koii Test](https://github.com/devTaehong/koii-test) | Document & Summarize | Koii Test | N/A | 0.001 | koii | 3nr5hhe1eqng45av7jsm55mpfpjoktc1rhbtdfyyerbc2evxdca41y8njsweztg5r4oymqnr8baqtkdnsn9dr16k | In Progress |
 | [Test Before Lunch](https://github.com/devTaehong/test-before-lunch) | Document & Summarize | Test Before Lunch | N/A | 0.0001 | koii | c2uop8ek2djeaasfzfdzdqeznhoo5qn47fdaz7g6vadewu2z3bjd3lyhnvqiyi19dlbgtl6z3jv8nqqttz2a1wu | In Progress |
+| [Test Koii 1](https://github.com/devTaehong/test-koii-1) | Document & Summarize | Test Koii 1 | N/A | 0.0001 | koii | 4YoGCVdnbfW5tUWzdqcLQY7xsKvSGKpttaYytXkU2EHAT7GuPfDaLsUbiQLa8Stz6f11bJvxR6H5VqqFnMm521WA | In Progress |
